@@ -1,0 +1,6 @@
+build.py
+locations.py
+README.md
+.DS_Store
+__pycache__
+publish-to-github.command
